@@ -1,0 +1,13 @@
+<svg width="400" height="850" viewBox="0 0 400 850" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="100" r="90" fill="#FF7300"/>
+  
+  <path d="M200 190 L380 260 L20 260 Z" fill="#FF7300"/>
+  
+  <rect x="20" y="260" width="360" height="90" fill="#FF7300"/>
+  
+  <g fill="#FF7300">
+    <path d="M20 350 H198 V800 H100 V500 H20 Z" />
+    
+    <path d="M202 350 H380 V500 H300 V800 H202 Z" />
+  </g>
+</svg>
